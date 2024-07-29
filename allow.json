@@ -10,7 +10,7 @@
         "status": "allowed"
     },
     "5YN08-NK3WY-YXVPI-5TLUV-ILATO": {
-        "device": "0",
+        "device": "56:00:05:09:c0:10",
         "name": "Basic API Sender",
         "status": "allowed"
     },
