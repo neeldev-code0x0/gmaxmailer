@@ -20,7 +20,7 @@
         "status": "allowed"
     },
     "LQUIN-ZT3QA-88WW5-SNNIM-FBGQA": {
-        "device": "0",
+        "device": "56:00:05:09:ba:36",
         "name": "Basic API Sender",
         "status": "allowed"
     },
