@@ -1,6 +1,6 @@
 {
     "0NKNS-WF3CX-75MZH-3VZ67-GPLOP": {
-        "device": "0",
+        "device": "42:01:0a:ca:00:02",
         "name": "Basic API Sender",
         "status": "allowed"
     },
