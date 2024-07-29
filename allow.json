@@ -25,7 +25,7 @@
         "status": "allowed"
     },
     "M1BU8-I5ID0-SVJSJ-I3JPS-TU6UN": {
-        "device": "0",
+        "device": "42:01:0a:ca:00:02",
         "name": "Basic API Sender",
         "status": "allowed"
     },
