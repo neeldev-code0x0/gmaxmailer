@@ -1,12 +1,47 @@
 {
-    "550e8400-e29b-41d4-a716-446655440000": {
+    "4O8ZA-KS80J-0M8Z6-TYFLK-MR59H": {
         "name": "Basic API Sender",
         "status": "allowed",
-        "device": "00:e0:2d:9d:22:4c"
+        "device": "0"
     },
     "7D8PJ-QR48X-HS3YP-OS3L4-8VCJB": {
         "name": "Basic API Sender",
         "status": "allowed",
-        "device": "06:79:01:db:e9:77"
+        "device": "0"
+    },
+     "5YN08-NK3WY-YXVPI-5TLUV-ILATO": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "LQUIN-ZT3QA-88WW5-SNNIM-FBGQA": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "QS61M-VNDHO-47M14-CHJET-S8A5N": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "VSXVM-FK7BT-RV0F5-XY2LU-HSMW7": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "0NKNS-WF3CX-75MZH-3VZ67-GPLOP": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "Z6GZP-BJKTR-CZADE-F2W30-WZ4BK": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
+    },
+     "M1BU8-I5ID0-SVJSJ-I3JPS-TU6UN": {
+        "name": "Basic API Sender",
+        "status": "allowed",
+        "device": "0"
     }
 }
