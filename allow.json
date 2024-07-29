@@ -4,9 +4,9 @@
         "status": "allowed",
         "device": "00:e0:2d:9d:22:4c"
     },
-  "7D8PJ-QR48X-HS3YP-OS3L4-8VCJB": {
+    "7D8PJ-QR48X-HS3YP-OS3L4-8VCJB": {
         "name": "Basic API Sender",
         "status": "allowed",
-        "device": "0"
-  }
+        "device": "06:79:01:db:e9:77"
+    }
 }
