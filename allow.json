@@ -1,47 +1,47 @@
 {
-    "4O8ZA-KS80J-0M8Z6-TYFLK-MR59H": {
+    "0NKNS-WF3CX-75MZH-3VZ67-GPLOP": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
+    },
+    "4O8ZA-KS80J-0M8Z6-TYFLK-MR59H": {
+        "device": "0",
+        "name": "Basic API Sender",
+        "status": "allowed"
+    },
+    "5YN08-NK3WY-YXVPI-5TLUV-ILATO": {
+        "device": "0",
+        "name": "Basic API Sender",
+        "status": "allowed"
     },
     "7D8PJ-QR48X-HS3YP-OS3L4-8VCJB": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     },
-     "5YN08-NK3WY-YXVPI-5TLUV-ILATO": {
+    "LQUIN-ZT3QA-88WW5-SNNIM-FBGQA": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     },
-     "LQUIN-ZT3QA-88WW5-SNNIM-FBGQA": {
+    "M1BU8-I5ID0-SVJSJ-I3JPS-TU6UN": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     },
-     "QS61M-VNDHO-47M14-CHJET-S8A5N": {
+    "QS61M-VNDHO-47M14-CHJET-S8A5N": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     },
-     "VSXVM-FK7BT-RV0F5-XY2LU-HSMW7": {
+    "VSXVM-FK7BT-RV0F5-XY2LU-HSMW7": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     },
-     "0NKNS-WF3CX-75MZH-3VZ67-GPLOP": {
+    "Z6GZP-BJKTR-CZADE-F2W30-WZ4BK": {
+        "device": "0",
         "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
-    },
-     "Z6GZP-BJKTR-CZADE-F2W30-WZ4BK": {
-        "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
-    },
-     "M1BU8-I5ID0-SVJSJ-I3JPS-TU6UN": {
-        "name": "Basic API Sender",
-        "status": "allowed",
-        "device": "0"
+        "status": "allowed"
     }
 }
